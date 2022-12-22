@@ -1,0 +1,15 @@
+File with the results of requests:
+
+Request:
+Samsung Ss 20.12.2019 Moscow 09.11.1993 11543 iwbewnec 88000987673 samsungmsc@mail.ru electronics smartphones samsung.com
+Apple Ap 09.04.2016 New-York 14.08.1996 14119 cwecw 19876534 applemain@bsu.by electronics smartphones apple.com
+Apple Ap 27.11.2022 Abu-Dabi 22.06.2001 10950 cweibw 97123456784 applerich@outlook.com electronics smartphones apple.com
+Request:
+Samsung Ss 20.12.2019 Moscow 09.11.1993 11543 iwbewnec 88000987673 samsungmsc@mail.ru electronics smartphones samsung.com
+Apple Ap 09.04.2016 New-York 14.08.1996 14119 cwecw 19876534 applemain@bsu.by electronics smartphones apple.com
+Apple Ap 27.11.2022 Abu-Dabi 22.06.2001 10950 cweibw 97123456784 applerich@outlook.com electronics smartphones apple.com
+Request:
+Apple Ap 09.04.2016 New-York 14.08.1996 14119 cwecw 19876534 applemain@bsu.by electronics smartphones apple.com
+Apple Ap 27.11.2022 Abu-Dabi 22.06.2001 10950 cweibw 97123456784 applerich@outlook.com electronics smartphones apple.com
+Request:
+Apple Ap 27.11.2022 Abu-Dabi 22.06.2001 10950 cweibw 97123456784 applerich@outlook.com electronics smartphones apple.com

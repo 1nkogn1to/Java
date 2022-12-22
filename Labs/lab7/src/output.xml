@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<name>Apple</name>
+	<shortTitle>Ap</shortTitle>
+	<dateUpdate>27.11.2022</dateUpdate>
+	<address>Abu-Dabi</address>
+	<dateFoundation>22.06.2001</dateFoundation>
+	<countEmployees>10950</countEmployees>
+	<auditor>cweibw</auditor>
+	<phone>97123456784</phone>
+	<email>applerich@outlook.com</email>
+	<branch>electronics</branch>
+	<activity>smartphones</activity>
+	<link>apple.com</link>
+</company>

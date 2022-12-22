@@ -1,0 +1,16 @@
+{
+	"company1": {
+		"name": "Apple",
+		"shortTitle": "Ap",
+		"dateUpdate": "27.11.2022",
+		"address": "Abu-Dabi",
+		"dateFoundation": "22.06.2001",
+		"countEmployees": "10950",
+		"auditor": "cweibw",
+		"phone": "97123456784",
+		"email": "applerich@outlook.com",
+		"branch": "electronics",
+		"activity": "smartphones",
+		"link": "apple.com"
+	}
+}
